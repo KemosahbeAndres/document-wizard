@@ -47,7 +47,7 @@ const showNavbar = computed(() => {
         <BCol cols="2">
           <BNav vertical>
             <BNavItem active to="/">Dashboard
-              <BIcon></BIcon>
+
             </BNavItem>
             <BNavItem to="/documentos">Documentos</BNavItem>
             <BNavItem to="/organizacion">Organización</BNavItem>

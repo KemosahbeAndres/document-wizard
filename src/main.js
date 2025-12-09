@@ -12,7 +12,7 @@ import * as BootstrapVueNext from 'bootstrap-vue-next'
 
 import './assets/custom.scss'
 
-import 'bootstrap-icons/font/bootstrap-icons.css'
+//import 'bootstrap-icons/font/bootstrap-icons.css'
 
 const app = createApp(App)
 
