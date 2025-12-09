@@ -1,6 +1,6 @@
-# document-wizard
+# Document Wizard Generator
 
-This template should help get you started developing with Vue 3 in Vite.
+Sistema para generación de documentos estandarizados con plantillas para empresas de cualquier tamaño.
 
 ## Recommended IDE Setup
 
