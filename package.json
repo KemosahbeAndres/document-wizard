@@ -1,6 +1,6 @@
 {
   "name": "document-wizard",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "type": "module",
   "engines": {
@@ -9,12 +9,14 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "deploy": "firebase deploy",
     "preview": "vite preview",
     "test:unit": "vitest",
     "lint": "eslint . --fix --cache",
     "format": "prettier --write --experimental-cli src/"
   },
   "dependencies": {
+    "firebase": "^12.6.0",
     "pinia": "^3.0.4",
     "vue": "^3.5.25",
     "vue-router": "^4.6.3"
